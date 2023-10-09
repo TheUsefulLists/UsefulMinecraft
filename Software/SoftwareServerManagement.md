@@ -22,6 +22,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [mccli](https://github.com/alvesvaren/mccli) | This is a small program and library that makes it much easier to manage minecraft servers on GNU/Linux |
 | [McMyAdmin](https://www.mcmyadmin.com/)(Free/Paid 10 Pund) | McMyAdmin is the leading web control panel and administration console for Minecraft servers |
 | [MC Server Soft](https://mcserversoft.com/) | The oldest maintained Minecraft Server Wrapper for Windows. |
+| [MCSMANAGER](https://mcsmanager.com/) | Open Source, Docker-supported, Distributed, and Lightweight control panel for Minecraft server and more. |
 | [Multicraft](https://www.multicraft.org/)(Free/Paid 9.90-49.90 USD) | The Complete Minecraft Server Hosting Solution and Control Panel |
 | [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP |
 | [Pterodactyl](https://pterodactyl.io/) | Web-based game server management panel with built in support for most Minecraft server software. |
